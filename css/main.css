@@ -196,6 +196,7 @@ Navigation Style
   background: #0097D6;
   margin-bottom: 0;
   border: none;
+  opacity: 0.52;
 }
 .navbar-default .navbar-header {
   width: 28%;
